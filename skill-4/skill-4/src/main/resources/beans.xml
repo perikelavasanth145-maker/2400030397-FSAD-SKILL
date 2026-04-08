@@ -1,0 +1,13 @@
+<beans xmlns="http://www.springframework.org/schema/beans"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+  
+	<bean id="studentBean" class="com.klu.beans.Student">
+        <constructor-arg value="101"/>
+        <constructor-arg value="Rex"/>
+        <constructor-arg value="Computer Science"/>
+        <constructor-arg value="3"/>
+    </bean>
+ </beans>
+
+  

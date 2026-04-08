@@ -1,0 +1,6 @@
+com/university/courseapi/controller/CourseController.class
+com/university/courseapi/CourseApiApplication.class
+com/university/courseapi/service/CourseService.class
+com/university/courseapi/service/impl/CourseServiceImpl.class
+com/university/courseapi/model/Course.class
+com/university/courseapi/payload/ApiResponse.class
